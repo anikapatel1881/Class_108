@@ -1,0 +1,16 @@
+body{
+   background-color: rgb(238, 10, 132);
+   font-family: 'Lobster', cursive;
+}
+.header_div{
+   background-color: royalblue;
+}
+.header_div p{
+   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+   color: rgb(102, 47, 126); 
+}
+main_div button{
+   margin-top: 30px;
+   width: 150px;
+   background-color: rgb(179, 0, 255);
+}
